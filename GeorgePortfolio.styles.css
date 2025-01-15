@@ -1,0 +1,51 @@
+/* /Pages/Index.razor.rz.scp.css */
+
+.JobAnimated[b-ouguti3581] {
+    border-bottom: 2px #8ecdff solid;
+    padding-bottom: 3px;
+    color: #209bfc;
+}
+
+ul[b-ouguti3581] {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.social-links a:hover[b-ouguti3581] {
+    background-color: #209bfc;
+}
+.nav-menu[b-ouguti3581] {
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+    .nav-menu ul[b-ouguti3581] {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+    }
+/* /Shared/MainLayout.razor.rz.scp.css */
+ul[b-e1ga5chxpi] {
+    margin: 0;
+    margin-top: 6px;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+h1[b-e1ga5chxpi] {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+header[b-e1ga5chxpi] {
+    background-color: #09353a;
+}
+.container[b-e1ga5chxpi] {
+    max-width: 1140px;
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+li + li[b-zu8kse05l8] {
+    margin-left: 30px;
+}
