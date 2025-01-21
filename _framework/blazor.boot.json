@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "GeorgePortfolio.dll": "sha256-dset\/4CySwHgrvTuKL6LVrS5JUl+Kq8PmAIv9fvhKUo=",
+      "GeorgePortfolio.dll": "sha256-DayHKghvRbrI4Uvx9kddSfaGiIl38fu9\/i8chQWgRy0=",
       "Microsoft.AspNetCore.Components.dll": "sha256-8attUB1prHQZ1uGMOacWAmHvui9oblECwqLDClg4k9M=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-r0YBuWGUlaHUh2Z23twt81FC7qrTbOMZKoaD\/dgspW4=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-GthKrHcSc8uOL6XXkGQP6uGfESlsj9kHhiGlLA+w5iM=",
